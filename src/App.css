@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "Roboto-Black";
+  src: local("Hurmeblack"),
+    url("./Font/Roboto-Black.ttf") format("opentype");
+}
+
+@font-face {
+  font-family: "Roboto-Bold";
+  src: local("Semibold"),
+    url("./Font/Roboto-Bold.ttf") format("opentype");
+}
+@font-face {
+  font-family: "Roboto-Medium";
+  src: local("Light"),
+    url("./Font/Roboto-Medium.ttf") format("opentype");
+}
+@font-face {
+  font-family: "Roboto-Regular";
+  src: local("Light"),
+    url("./Font/Roboto-Regular.ttf") format("opentype");
+}
